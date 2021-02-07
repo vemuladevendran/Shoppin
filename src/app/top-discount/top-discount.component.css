@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.order-link {
+    color: white !important;
+}
+
+.offer-details {
+    color: white;
+}
+
+.close-icon {
+    right: 4rem;
+    color: white;
+}
+
+
+/* small screen font size */
+
+@media (min-width: 300px) and (max-width:450px) {
+    .offer-details {
+        font-size: 13px;
+    }
+    .close-icon {
+        right: 0;
+    }
+}

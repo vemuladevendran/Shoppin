@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo-img {
+    width: 3rem;
+}
+
+.cart-icon {
+    font-size: 2rem;
+    margin-right: 2rem;
+    color: white;
+}
+
+.cart-numbers {
+    color: red;
+    border: 1px solid red;
+    height: 1.5rem;
+}
