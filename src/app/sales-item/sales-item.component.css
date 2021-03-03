@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.sales-container {
+    background-image: url('/assets/cycling.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .6;
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+    font-weight: bold;
+    text-shadow: whitesmoke;
+}
+
+.new-arravials {
+    flex-wrap: wrap;
+}
+
+h6 {
+    font-size: 11px;
+    margin-top: 7px;
+    margin-left: 1rem;
+}
+
+.products {
+    margin-top: 10rem;
+}
+
+.black-btns {
+    border-radius: 0 !important;
+}

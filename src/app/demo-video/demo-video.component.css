@@ -11,3 +11,8 @@ h3 {
 .discount-img {
     right: 0;
 }
+
+.img-container {
+    width: 35%;
+    margin-left: 6rem;
+}

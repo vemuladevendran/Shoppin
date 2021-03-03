@@ -1,9 +1,9 @@
-<div class="container-fluid bg-success">
+<div class="container-fluid bg-success" [style.display]="display">
     <div class="offers position-relative d-flex justify-content-md-center">
         <span class="offer-details p-1">
                 Get <strong>15% off Bikes</strong> Commuters   
                 <a href="" class="order-link">ORDER NOW</a>
             </span>
-        <i class="bi bi-x-circle close-icon  position-absolute"></i>
+        <i class="bi bi-x-circle close-icon  position-absolute" (click)="handleClick()"></i>
     </div>
 </div>

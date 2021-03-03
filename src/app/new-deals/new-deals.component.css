@@ -1,0 +1,8 @@
+.product-img img {
+    border: 1px solid rgba(128, 128, 128, 0.473);
+    padding: 10px;
+}
+
+.product-img i:hover,.product-img i:active {
+color: gold;
+}
